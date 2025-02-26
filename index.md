@@ -3,7 +3,7 @@ title: Clases
 nav_order: 1
 ---
 
-# Bienvenidos al curso de Visualización de Información
+# Visualización de Información, PUC
 
 Las clases están organizadas de la más reciente a la más antigua.
 {: .fs-6 .fw-300 }
