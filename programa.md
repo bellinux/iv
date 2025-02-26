@@ -122,7 +122,7 @@ Si el promedio final es mayor o igual a 4, pero alguno de los promedios (pruebas
 Al promedio final obtenido se sumará el bonus correspondiente a las actividades en clase.
 
 ## USO DE MODELOS DE LENGUAJE GRANDE
-El uso de ChatGPT o herramientas similares es recomendado para facilitar y agilizar la creación de código, la resolución de problemas de programación y la generación de ideas para el proyecto. Además, puede ser útil para ayudarte en la redacción del informe final del proyecto, asegurando que el contenido sea claro, coherente y bien estructurado. Recuerda siempre verificar que las respuestas proporcionadas sean correctas y pertinentes al contexto del proyecto.
+El uso de ChatGPT o herramientas similares es recomendado para facilitar y agilizar la creación de código, la resolución de problemas de programación y la revisión textual de los informes de los proyectos.
 
 ## BIBLIOGRAFÍA
 
