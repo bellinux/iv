@@ -11,8 +11,6 @@ Es **indispensable** usar [Glitch](https://glitch.com) para enviar los proyectos
 - [Glitch](https://glitch.com) permite crear, editar y compartir aplicaciones web de manera sencilla, facilitando el desarrollo y la colaboración en tiempo real. Asegúrate de tener una cuenta y familiarizarte con sus herramientas para poder enviar correctamente tu trabajo.
 
 
----
-
 
 Además, te presentamos algunas herramientas recomendadas para el desarrollo de tus proyectos:
 
