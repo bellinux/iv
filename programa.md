@@ -3,7 +3,7 @@ title: Programa del Curso
 nav_order: 2
 ---
 
-# Visualización de Información
+# Programa del Curso de InfoVis
 
 ## I. DESCRIPCIÓN DEL CURSO
 
