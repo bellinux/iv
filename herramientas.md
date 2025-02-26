@@ -6,6 +6,9 @@ nav_order: 20
 # Herramientas
 
 Es **indispensable** usar [Glitch](https://glitch.com) para enviar los proyectos. Esta plataforma permite crear, editar y compartir aplicaciones web de manera sencilla, facilitando el desarrollo y la colaboración en tiempo real. Asegúrate de tener una cuenta y familiarizarte con sus herramientas para poder enviar correctamente tu trabajo.
+{: .fs-6 .fw-300 }
+
+---
 
 Además, te presentamos algunas herramientas recomendadas para el desarrollo de tus proyectos:
 
