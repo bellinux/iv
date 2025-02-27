@@ -9,3 +9,111 @@ A continuación, se presentan algunos ejemplos de proyectos realizados por estud
 {: .fs-6 .fw-300 }
 
 ---
+
+{% include video_embed.html video_id="KxJ2-FEeZbg" %}
+
+Este proyecto visualiza el impacto de las lluvias en distintas regiones de Chile, creando un mapa interactivo con sonificación. La representación física fue revisada para proporcionar una experiencia inmersiva sin alterar la idea original.
+
+**Créditos:** Desarrollado por el Grupo 7 (InfoVis 2024-II). Se realizaron ajustes en la visualización y sonificación para mejorar la experiencia interactiva.
+
+[Abrir en Glitch](https://glitch.com/edit/#!/infovis-rain-river){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Demostración](https://infovis-rain-river.glitch.me/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+
+---
+
+{% include video_embed.html video_id="nhvxVWQnIgM" %}
+
+Este proyecto muestra un mapa interactivo de los países anfitriones de la Copa del Mundo, permitiendo a los usuarios explorar la historia de los torneos. La interfaz se optimizó para hacer la navegación más fluida y mejorar la presentación visual.
+
+**Créditos:** Desarrollado por Benjamín Santander, Nicolás San Martín, Rodolfo Cruz (Grupo 17, InfoVis 2024-II). Se realizaron pequeñas revisiones visuales para mejorar la accesibilidad y la claridad.
+
+[Abrir en Glitch](https://glitch.com/edit/#!/infovis-world-cup-map){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Demostración](https://infovis-world-cup-map.glitch.me/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+
+---
+
+{% include video_embed.html video_id="LEm3NN7c4eo" %}
+
+Esta visualización analiza el gasto militar global con gráficos interactivos. Se realizaron modificaciones menores en la representación física para mejorar la comprensión y la experiencia del usuario.
+
+**Créditos:** Jaime Hormazábal, Juan Pablo Palma, Yampai Ludueña (Grupo 22, InfoVis 2024-II). Se realizaron ajustes visuales y físicos para mejorar la experiencia interactiva.
+
+[Abrir en Glitch](https://glitch.com/edit/#!/infovis-military-expenditure){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Demostración](https://infovis-military-expenditure.glitch.me/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+
+---
+
+{% include video_embed.html video_id="WwubGR5M7xc" %}
+
+Este proyecto compara las montañas rusas más rápidas del mundo, destacando sus características clave. La visualización fue ajustada para mejorar la claridad y la interactividad.
+
+**Créditos:** Desarrollado por el Grupo 4 (InfoVis 2024-II). Se realizaron ajustes visuales para mejorar la interacción del usuario.
+
+[Abrir en Glitch](https://glitch.com/edit/#!/infovis-montanas-rusas){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Demostración](https://infovis-montanas-rusas.glitch.me/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+
+---
+
+{% include video_embed.html video_id="4NA4Ws5NQ2M" %}
+
+Este proyecto muestra los autos más rápidos del mundo, presentando sus especificaciones de manera interactiva. El código fue reescrito en JavaScript puro para optimizar el rendimiento y la interacción.
+
+**Créditos:** Matías Acuña, Gaspar Magna, Pablo Rabelo (Grupo 29, InfoVis 2024-II). El proyecto fue reescrito en JavaScript puro y se mejoró la representación física para una experiencia más fluida.
+
+[Abrir en Glitch](https://glitch.com/edit/#!/infovis-car-speed-records){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Demostración](https://infovis-car-speed-records.glitch.me/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+
+---
+
+{% include video_embed.html video_id="3QMSU1bA5wM" %}
+
+Este proyecto visualiza el consumo de energía en Chile, permitiendo a los usuarios explorar patrones a lo largo del tiempo. Se realizaron ajustes visuales menores para mejorar la claridad y comprensión.
+
+**Créditos:** Desarrollado por el Grupo 6 (InfoVis 2024-II). Se realizaron ajustes visuales y físicos para optimizar la experiencia interactiva.
+
+[Abrir en Glitch](https://glitch.com/edit/#!/infovis-electricity-chile){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Demostración](https://infovis-electricity-chile.glitch.me/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+
+---
+
+{% include video_embed.html video_id="BK45jhswa-g" %}
+
+Este dispensador de cereales inteligente ajusta la cantidad según las preferencias del usuario, proporcionando una experiencia personalizada. La representación física fue revisada para mejorar la interacción.
+
+**Créditos:** Desarrollado por el Grupo 5 (InfoVis 2024-II). El proyecto fue revisado para mejorar la integración física y la interacción.
+
+[Abrir en Glitch](https://glitch.com/edit/#!/infovis-cereales-calorias){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Demostración](https://infovis-cereales-calorias.glitch.me/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+
+---
+
+{% include video_embed.html video_id="FvebGiR0hAk" %}
+
+Este proyecto visualiza la migración de gaviotas utilizando datos geoespaciales, proporcionando una representación clara de su trayecto junto con sonificación de la migración. La visualización fue ajustada para mejorar la comprensión.
+
+**Créditos:** Desarrollado por el Grupo 21 (InfoVis 2024-II). Se realizaron ajustes visuales para mejorar la interacción y claridad de la representación.
+
+[Abrir en Glitch](https://glitch.com/edit/#!/infovis-migracion-gaviotas){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Demostración](https://infovis-migracion-gaviotas.glitch.me/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+
+---
+
+{% include video_embed.html video_id="XI0MTvV1WNI" %}
+
+Este proyecto muestra la evolución de los ganadores de los 100 metros planos en las Olimpiadas, visualizando sus tiempos y medallistas. El código fue adaptado para integrar un dispositivo físico en la visualización.
+
+**Créditos:** Maximiliano Cabrera, Matías Oliva, Lorenzo Muñoz (Grupo 13, InfoVis 2024-II). El proyecto fue ajustado para integrar un dispositivo físico, mejorando la interacción con los datos.
+
+[Abrir en Glitch](https://glitch.com/edit/#!/infovis-medallistas-olimpiadas){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Demostración](https://infovis-medallistas-olimpiadas.glitch.me/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+
+---
+
+{% include video_embed.html video_id="a72kG1CFTSU" %}
+
+Este proyecto representa la intensidad y dirección del viento en la región de Valparaíso, combinando visualizaciones de distintas fuentes. El código fue revisado para mejorar la integración de los datos.
+
+**Créditos:** Nicolás Acevedo, Alan Saavedra, Pablo Utrera (Grupo 11) y Grupo 14 (InfoVis 2024-II). Se integraron visualizaciones para representar tanto la intensidad como la dirección del viento.
+
+[Abrir en Glitch](https://glitch.com/edit/#!/infovis-wind-intensity){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Demostración](https://infovis-wind-intensity.glitch.me/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
