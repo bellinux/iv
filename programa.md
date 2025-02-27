@@ -121,6 +121,9 @@ Si el promedio final es mayor o igual a 4, pero alguno de los promedios (pruebas
 
 Al promedio final obtenido se sumará el bonus correspondiente a las actividades en clase.
 
+[Calcula tu nota](https://docs.google.com/spreadsheets/d/1oeK0Uc_cDb-OJ4ro1ohQd-m1hLe46mJSSay6n2mGJTU/edit ){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
+
 ## USO DE LLM
 El uso de ChatGPT o herramientas similares es recomendado para facilitar y agilizar la creación de código, la resolución de problemas de programación y la revisión textual de los informes de los proyectos.
 
