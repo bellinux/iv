@@ -14,7 +14,7 @@ A continuación, se presentan algunos ejemplos de proyectos realizados por estud
 
 Este proyecto visualiza el impacto de las lluvias en distintas regiones de Chile, creando un mapa interactivo con sonificación. La representación física fue revisada para proporcionar una experiencia inmersiva sin alterar la idea original.
 
-**Créditos:** Desarrollado por el Grupo 7 (InfoVis 2024-II). Se realizaron ajustes en la visualización y sonificación para mejorar la experiencia interactiva.
+**Créditos:** La representación física fue diseñada por el Grupo 7 (InfoVis 2024-II). Se realizaron ajustes en la visualización y sonificación para mejorar la experiencia interactiva.
 
 [Abrir en Glitch](https://glitch.com/edit/#!/infovis-rain-river){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
 [Demostración](https://infovis-rain-river.glitch.me/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
@@ -23,7 +23,7 @@ Este proyecto visualiza el impacto de las lluvias en distintas regiones de Chile
 
 {% include video_embed.html video_id="nhvxVWQnIgM" %}
 
-Este proyecto muestra un mapa interactivo de los países anfitriones de la Copa del Mundo, permitiendo a los usuarios explorar la historia de los torneos. La interfaz se optimizó para hacer la navegación más fluida y mejorar la presentación visual.
+Este proyecto muestra un mapa interactivo de los países anfitriones de la Copa del Mundo, permitiendo a los usuarios explorar la historia de los torneos.
 
 **Créditos:** Desarrollado por Benjamín Santander, Nicolás San Martín, Rodolfo Cruz (Grupo 17, InfoVis 2024-II). Se realizaron pequeñas revisiones visuales para mejorar la accesibilidad y la claridad.
 
@@ -34,7 +34,7 @@ Este proyecto muestra un mapa interactivo de los países anfitriones de la Copa 
 
 {% include video_embed.html video_id="LEm3NN7c4eo" %}
 
-Esta visualización analiza el gasto militar global con gráficos interactivos. Se realizaron modificaciones menores en la representación física para mejorar la comprensión y la experiencia del usuario.
+Esta visualización permite explorar el gasto militar global a través de un mapa interactivo.
 
 **Créditos:** Jaime Hormazábal, Juan Pablo Palma, Yampai Ludueña (Grupo 22, InfoVis 2024-II). Se realizaron ajustes visuales y físicos para mejorar la experiencia interactiva.
 
