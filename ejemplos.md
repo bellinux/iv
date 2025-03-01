@@ -45,7 +45,7 @@ Esta visualización permite explorar el gasto militar global a través de un map
 
 {% include video_embed.html video_id="WwubGR5M7xc" %}
 
-Este proyecto compara las montañas rusas más rápidas del mundo, destacando sus características clave. La visualización fue ajustada para mejorar la claridad y la interactividad.
+Este proyecto compara las montañas rusas más rápidas del mundo, destacando sus características clave.
 
 **Créditos:** Desarrollado por el Grupo 4 (InfoVis 2024-II). Se realizaron ajustes visuales para mejorar la interacción del usuario.
 
@@ -56,7 +56,7 @@ Este proyecto compara las montañas rusas más rápidas del mundo, destacando su
 
 {% include video_embed.html video_id="4NA4Ws5NQ2M" %}
 
-Este proyecto muestra los autos más rápidos del mundo, presentando sus especificaciones de manera interactiva. El código fue reescrito en JavaScript puro para optimizar el rendimiento y la interacción.
+Este proyecto muestra los autos más rápidos del mundo, presentando sus especificaciones de manera interactiva.
 
 **Créditos:** Matías Acuña, Gaspar Magna, Pablo Rabelo (Grupo 29, InfoVis 2024-II). El proyecto fue reescrito en JavaScript puro y se mejoró la representación física para una experiencia más fluida.
 
@@ -67,7 +67,7 @@ Este proyecto muestra los autos más rápidos del mundo, presentando sus especif
 
 {% include video_embed.html video_id="3QMSU1bA5wM" %}
 
-Este proyecto visualiza el consumo de energía en Chile, permitiendo a los usuarios explorar patrones a lo largo del tiempo. Se realizaron ajustes visuales menores para mejorar la claridad y comprensión.
+Este proyecto visualiza el consumo de energía en Chile y permite a los usuarios explorar las diferentes regiones del país.
 
 **Créditos:** Desarrollado por el Grupo 6 (InfoVis 2024-II). Se realizaron ajustes visuales y físicos para optimizar la experiencia interactiva.
 
@@ -78,7 +78,7 @@ Este proyecto visualiza el consumo de energía en Chile, permitiendo a los usuar
 
 {% include video_embed.html video_id="BK45jhswa-g" %}
 
-Este dispensador de cereales inteligente ajusta la cantidad según las preferencias del usuario, proporcionando una experiencia personalizada. La representación física fue revisada para mejorar la interacción.
+Este dispensador de cereales inteligente muestra las calorías en función del tipo de cereal y la cantidad servida.
 
 **Créditos:** Desarrollado por el Grupo 5 (InfoVis 2024-II). El proyecto fue revisado para mejorar la integración física y la interacción.
 
@@ -89,9 +89,9 @@ Este dispensador de cereales inteligente ajusta la cantidad según las preferenc
 
 {% include video_embed.html video_id="FvebGiR0hAk" %}
 
-Este proyecto visualiza la migración de gaviotas utilizando datos geoespaciales, proporcionando una representación clara de su trayecto junto con sonificación de la migración. La visualización fue ajustada para mejorar la comprensión.
+Este proyecto visualiza la migración de gaviotas utilizando datos geoespaciales, proporcionando una representación clara de su trayecto junto con sonificación de la migración.
 
-**Créditos:** Desarrollado por el Grupo 21 (InfoVis 2024-II). Se realizaron ajustes visuales para mejorar la interacción y claridad de la representación.
+**Créditos:** Desarrollado por el Grupo 21 (InfoVis 2024-II). Se realizaron ajustes visuales para mejorar la claridad de la representación.
 
 [Abrir en Glitch](https://glitch.com/edit/#!/infovis-migracion-gaviotas){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
 [Demostración](https://infovis-migracion-gaviotas.glitch.me/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
@@ -100,9 +100,9 @@ Este proyecto visualiza la migración de gaviotas utilizando datos geoespaciales
 
 {% include video_embed.html video_id="XI0MTvV1WNI" %}
 
-Este proyecto muestra la evolución de los ganadores de los 100 metros planos en las Olimpiadas, visualizando sus tiempos y medallistas. El código fue adaptado para integrar un dispositivo físico en la visualización.
+Este proyecto muestra la evolución de los ganadores de los 100 metros planos en las Olimpiadas, visualizando sus tiempos y medallistas.
 
-**Créditos:** Maximiliano Cabrera, Matías Oliva, Lorenzo Muñoz (Grupo 13, InfoVis 2024-II). El proyecto fue ajustado para integrar un dispositivo físico, mejorando la interacción con los datos.
+**Créditos:** Maximiliano Cabrera, Matías Oliva, Lorenzo Muñoz (Grupo 13, InfoVis 2024-II). El proyecto fue ajustado para integrar un dispositivo físico.
 
 [Abrir en Glitch](https://glitch.com/edit/#!/infovis-medallistas-olimpiadas){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
 [Demostración](https://infovis-medallistas-olimpiadas.glitch.me/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
@@ -111,9 +111,9 @@ Este proyecto muestra la evolución de los ganadores de los 100 metros planos en
 
 {% include video_embed.html video_id="a72kG1CFTSU" %}
 
-Este proyecto representa la intensidad y dirección del viento en la región de Valparaíso, combinando visualizaciones de distintas fuentes. El código fue revisado para mejorar la integración de los datos.
+Este proyecto representa la intensidad y dirección del viento en la Quinta Región de Chile.
 
-**Créditos:** Nicolás Acevedo, Alan Saavedra, Pablo Utrera (Grupo 11) y Grupo 14 (InfoVis 2024-II). Se integraron visualizaciones para representar tanto la intensidad como la dirección del viento.
+**Créditos:** Nicolás Acevedo, Alan Saavedra, Pablo Utrera (Grupo 11) y Grupo 14 (InfoVis 2024-II). Se integraron las visualizaciones de ambos grupos para representar tanto la intensidad como la dirección del viento.
 
 [Abrir en Glitch](https://glitch.com/edit/#!/infovis-wind-intensity){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
 [Demostración](https://infovis-wind-intensity.glitch.me/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
