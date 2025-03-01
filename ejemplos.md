@@ -8,27 +8,7 @@ nav_order: 30
 A continuación, se presentan algunos ejemplos de proyectos realizados por estudiantes en ediciones pasadas del curso. Estos proyectos destacan por su **innovación** y **diversidad**, y representan una muestra de las diferentes posibilidades creativas y de ejecución que se pueden explorar en el curso.
 {: .fs-6 .fw-300 }
 
----
 
-{% include video_embed.html video_id="KxJ2-FEeZbg" %}
-
-Este proyecto visualiza el impacto de las lluvias en distintas regiones de Chile, creando un mapa interactivo con sonificación. La representación física fue revisada para proporcionar una experiencia inmersiva sin alterar la idea original.
-
-**Créditos:** La representación física fue diseñada por el Grupo 7 (InfoVis 2024-II). Se realizaron ajustes en la visualización y sonificación para mejorar la experiencia interactiva.
-
-[Abrir en Glitch](https://glitch.com/edit/#!/infovis-rain-river){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
-[Demostración](https://infovis-rain-river.glitch.me/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
-
----
-
-{% include video_embed.html video_id="nhvxVWQnIgM" %}
-
-Este proyecto muestra un mapa interactivo de los países anfitriones de la Copa del Mundo, permitiendo a los usuarios explorar la historia de los torneos.
-
-**Créditos:** Desarrollado por Benjamín Santander, Nicolás San Martín, Rodolfo Cruz (Grupo 17, InfoVis 2024-II). Se realizaron pequeñas revisiones visuales para mejorar la accesibilidad y la claridad.
-
-[Abrir en Glitch](https://glitch.com/edit/#!/infovis-world-cup-map){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
-[Demostración](https://infovis-world-cup-map.glitch.me/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
 
 ---
 
@@ -51,6 +31,18 @@ Este proyecto compara las montañas rusas más rápidas del mundo, destacando su
 
 [Abrir en Glitch](https://glitch.com/edit/#!/infovis-montanas-rusas){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
 [Demostración](https://infovis-montanas-rusas.glitch.me/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+
+
+---
+
+{% include video_embed.html video_id="nhvxVWQnIgM" %}
+
+Este proyecto muestra un mapa interactivo de los países anfitriones de la Copa del Mundo, permitiendo a los usuarios explorar la historia de los torneos.
+
+**Créditos:** Desarrollado por Benjamín Santander, Nicolás San Martín, Rodolfo Cruz (Grupo 17, InfoVis 2024-II). Se realizaron pequeñas revisiones visuales para mejorar la accesibilidad y la claridad.
+
+[Abrir en Glitch](https://glitch.com/edit/#!/infovis-world-cup-map){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Demostración](https://infovis-world-cup-map.glitch.me/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
 
 ---
 
@@ -117,3 +109,14 @@ Este proyecto representa la intensidad y dirección del viento en la Quinta Regi
 
 [Abrir en Glitch](https://glitch.com/edit/#!/infovis-wind-intensity){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
 [Demostración](https://infovis-wind-intensity.glitch.me/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+
+---
+
+{% include video_embed.html video_id="KxJ2-FEeZbg" %}
+
+Este proyecto visualiza el impacto de las lluvias en distintas regiones de Chile, creando un mapa interactivo con sonificación. 
+
+**Créditos:** La representación física fue diseñada por el Grupo 7 (InfoVis 2024-II), y aunque se mantuvo la idea original, fue ajustada para ofrecer una experiencia inmersiva. Se realizaron cambios significativos en la visualización y sonificación.
+
+[Abrir en Glitch](https://glitch.com/edit/#!/infovis-rain-river){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Demostración](https://infovis-rain-river.glitch.me/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
