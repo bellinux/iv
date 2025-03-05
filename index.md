@@ -5,7 +5,7 @@ nav_order: 1
 
 # Visualización de Información, 2025-I
 
-En esta sección encontrarás los materiales utilizados en las clases del curso, incluyendo presentaciones, apuntes, código y más.
+En esta sección encontrarás los materiales utilizados en las clases del curso (C), ayudantias (A), incluyendo presentaciones, apuntes, código y más.
 {: .fs-6 .fw-300 }
 
 ---
