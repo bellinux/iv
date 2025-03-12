@@ -22,3 +22,9 @@ En esta sección encontrarás los materiales utilizados en las clases (C) y ayud
 # (C) Martes 11 de marzo de 2025
 - [Presentación](https://docs.google.com/presentation/d/1mcO3HXX69C63aT3UPwotDvqisq-VDkcZj7RDlQK5hpM/edit){:target="_blank"}
 - [Apuntes](https://docs.google.com/document/d/1Q9t7KXjZIGf0G5VbpvtaSQF_pMkVLsfqk-_wfmbsHKQ/edit?tab=t.0#heading=h.75um1o7fmlsr){:target="_blank"}
+
+
+
+# (C) Jueves 13 de marzo de 2025
+- [Presentación](https://docs.google.com/presentation/d/1atDLrv3M60GL3pRq2xPZFAgZJgu1set5017-GkT6AAI/edit){:target="_blank"}
+- [Apuntes](https://docs.google.com/document/d/1Q9t7KXjZIGf0G5VbpvtaSQF_pMkVLsfqk-_wfmbsHKQ/edit?tab=t.0#heading=h.az5v6uty1gtd){:target="_blank"}
