@@ -41,3 +41,17 @@ En esta sección encontrarás los materiales utilizados en las clases (C) y ayud
 # (A) Viernes 21 de marzo de 2025
 - [Presentación](https://docs.google.com/presentation/d/1FhD9OWrGo_DW4fBt_Dvix9DYrsl4FIOIM2VMXCNI62A/edit){:target="_blank"}
 - [Código](https://glitch.com/edit/#!/infovis-puc-codigo-ayudantia?path=3-intro-js-eventos%2Findex.html%3A1%3A0){:target="_blank"}
+
+
+
+# (C) Martes 25 de marzo de 2025
+- [Presentación](https://docs.google.com/presentation/d/1JEhtKos38Hgj6gT9rznN9-3q9OeYaLHlKvyaEe0Nh6w/edit){:target="_blank"}
+- [Apuntes](https://docs.google.com/document/d/1Q9t7KXjZIGf0G5VbpvtaSQF_pMkVLsfqk-_wfmbsHKQ/edit?tab=t.0#heading=h.h1nxik2gyd3f){:target="_blank"}
+
+# (C) Jueves 27 de marzo de 2025
+- [Presentación](https://docs.google.com/presentation/d/1PSINwVYSD3ONZnltCKJS7Czh-AuSrIoArRhnVLlRQlk/edit){:target="_blank"}
+- [Apuntes](https://docs.google.com/document/d/1Q9t7KXjZIGf0G5VbpvtaSQF_pMkVLsfqk-_wfmbsHKQ/edit?tab=t.0#heading=h.5n9f6wylfw1f){:target="_blank"}
+
+# (A) Viernes 28 de marzo de 2025
+- [Presentación](https://docs.google.com/presentation/d/1f9ttW92f_qenEQv-uyU6TZ_UZqU1fhJaxTCpkDbyFTs/edit){:target="_blank"}
+- [Código](https://glitch.com/edit/#!/infovis-puc-codigo-ayudantia?path=4-data-mapping%2Findex.html%3A1%3A0){:target="_blank"}
