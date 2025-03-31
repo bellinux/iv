@@ -13,10 +13,10 @@ Este curso proporciona una introducción integral a la visualización de informa
 
 Al finalizar el curso, los estudiantes serán capaces de:
 
-- Comprender los principios fundamentales de la visualización de información y su importancia en el análisis y la comunicación de datos.
+- Analizar los principios fundamentales de la visualización de información y su importancia en el análisis y la comunicación de datos.
 - Diseñar visualizaciones efectivas que consideren el contexto, el público objetivo y el mensaje que se desea transmitir.
 - Implementar visualizaciones utilizando diversas técnicas y herramientas, incluyendo la programación web (HTML, CSS, JavaScript, SVG), librerías como Plotly.js, y herramientas de sonificación como Tone.js.
-- Analizar y evaluar visualizaciones utilizando métodos cuantitativos y cualitativos, y heurísticas de diseño.
+- Evaluar visualizaciones utilizando métodos cuantitativos y cualitativos, y heurísticas de diseño.
 - Utilizar la interacción, la sonificación y la fisicalización para enriquecer las visualizaciones y facilitar la exploración y comprensión de los datos.
 - Crear prototipos de visualizaciones físicas utilizando diferentes técnicas y niveles de fidelidad, incluyendo bocetos, maquetas y prototipos interactivos.
 - Aplicar las técnicas de diseño de información para crear visualizaciones estáticas, interactivas y físicas.
