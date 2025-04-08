@@ -8,7 +8,7 @@ nav_order: 1
 En esta sección encontrarás los materiales utilizados en las clases del curso, incluyendo presentaciones, apuntes, código y más.
 {: .fs-6 .fw-300 }
 
-**Ayudantias: [presentaciones](https://infovis-puc-codigo-ayudantia.glitch.me/) y [código](https://glitch.com/edit/#!/infovis-puc-codigo-ayudantia).**
+**Ayudantías: [presentaciones](https://infovis-puc-codigo-ayudantia.glitch.me/) y [código](https://glitch.com/edit/#!/infovis-puc-codigo-ayudantia).**
 
 ---
 
