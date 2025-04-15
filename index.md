@@ -64,6 +64,7 @@ En esta sección encontrarás los materiales utilizados en las clases del curso,
 - [Código](https://glitch.com/edit/#!/infovis-code-clases?path=index.html%3A1%3A0){:target="_blank"}
 
 
-
+# Martes 15 de abril de 2025 y días sucesivos – Revisión de proyectos
+- [Presentación](https://docs.google.com/presentation/d/1x6hQTzEK4wQpYrJGykvNxYWaNoG2_LrdLTIFQjddcqc/edit){:target="_blank"}
 
 
