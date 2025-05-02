@@ -68,3 +68,10 @@ En esta sección encontrarás los materiales utilizados en las clases del curso,
 - [Presentación](https://docs.google.com/presentation/d/1x6hQTzEK4wQpYrJGykvNxYWaNoG2_LrdLTIFQjddcqc/edit){:target="_blank"}
 
 
+# Martes 6 de mayo de 2025
+- [Presentación](https://docs.google.com/presentation/d/1F83R3m8TFKGwHIH1H3pRnzSFolAdvRgOfSxa38mTO7w/edit){:target="_blank"}
+- [Apuntes](https://docs.google.com/document/d/1Q9t7KXjZIGf0G5VbpvtaSQF_pMkVLsfqk-_wfmbsHKQ/edit?tab=t.0#heading=h.f6e8hrt4rg3v){:target="_blank"}
+
+# Jueves 8 de mayo de 2025
+- [Presentación](https://docs.google.com/presentation/d/1c-eMXz9O8mcbKW0VduPRPXOnNWwsHiNbEsBiTX8b4mY/edit){:target="_blank"}
+- [Código](https://glitch.com/edit/#!/infovis-code-clases?path=3-intSon%2Findex.html%3A1%3A0){:target="_blank"}
