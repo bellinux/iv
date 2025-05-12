@@ -75,3 +75,12 @@ En esta sección encontrarás los materiales utilizados en las clases del curso,
 # Jueves 8 de mayo de 2025
 - [Presentación](https://docs.google.com/presentation/d/1c-eMXz9O8mcbKW0VduPRPXOnNWwsHiNbEsBiTX8b4mY/edit){:target="_blank"}
 - [Código](https://glitch.com/edit/#!/infovis-code-clases?path=3-intSon%2Findex.html%3A1%3A0){:target="_blank"}
+
+
+# Martes 13 de mayo de 2025
+- [Presentación](https://docs.google.com/presentation/d/1JRKAa0qFkzY9yHPCnApGpxp2AGyO_qST5cDFnfYgHsc/edit){:target="_blank"}
+
+# Jueves 15 de mayo de 2025
+- Charla profesor invitado: Rodrigo Cádiz nos hablará sobre sonificación.
+
+
