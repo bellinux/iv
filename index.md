@@ -84,3 +84,11 @@ En esta sección encontrarás los materiales utilizados en las clases del curso,
 - Charla profesor invitado: Rodrigo Cádiz nos hablará sobre sonificación.
 
 
+# Martes 20 de mayo de 2025 y días sucesivos – Revisión de proyectos
+
+# Jueves 29 de mayo de 2025
+- [Presentación](https://docs.google.com/presentation/d/1beopEyZD2rc1Qnj-U07tA_Iq6nXqFQuep-BDObdgWxY/edit){:target="_blank"}
+- [Apuntes](https://docs.google.com/document/d/1Q9t7KXjZIGf0G5VbpvtaSQF_pMkVLsfqk-_wfmbsHKQ/edit?tab=t.0#heading=h.9hmdyj8mi8y6){:target="_blank"}
+
+
+
