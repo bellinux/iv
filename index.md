@@ -77,7 +77,7 @@ En esta sección encontrarás los materiales utilizados en las clases del curso,
 - [Código](https://glitch.com/edit/#!/infovis-code-clases?path=3-intSon%2Findex.html%3A1%3A0){:target="_blank"}
 
 
-# Martes 13 de mayo de 2025
+# Martes 13 de mayo de 2025 – Revisión de proyectos
 - [Presentación](https://docs.google.com/presentation/d/1JRKAa0qFkzY9yHPCnApGpxp2AGyO_qST5cDFnfYgHsc/edit){:target="_blank"}
 
 # Jueves 15 de mayo de 2025
@@ -85,6 +85,7 @@ En esta sección encontrarás los materiales utilizados en las clases del curso,
 
 
 # Martes 20 de mayo de 2025 y días sucesivos – Revisión de proyectos
+- [Presentación](https://docs.google.com/presentation/d/1JRKAa0qFkzY9yHPCnApGpxp2AGyO_qST5cDFnfYgHsc/edit){:target="_blank"}
 
 # Jueves 29 de mayo de 2025
 - [Presentación](https://docs.google.com/presentation/d/1beopEyZD2rc1Qnj-U07tA_Iq6nXqFQuep-BDObdgWxY/edit){:target="_blank"}
