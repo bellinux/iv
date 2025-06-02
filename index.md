@@ -92,4 +92,11 @@ En esta sección encontrarás los materiales utilizados en las clases del curso,
 - [Apuntes](https://docs.google.com/document/d/1Q9t7KXjZIGf0G5VbpvtaSQF_pMkVLsfqk-_wfmbsHKQ/edit?tab=t.0#heading=h.9hmdyj8mi8y6){:target="_blank"}
 
 
+# Martes 3 de junio de 2025
+- [Presentación](https://docs.google.com/presentation/d/1I421XAM2n2kdDGyEoY0weq3yl2jPHsvw4S5JV9vvUsU/edit){:target="_blank"}
+- [Código](https://framework.protobject.com/examples.html#dataviz-projects){:target="_blank"}
+
+# Jueves 5 de junio de 2025
+- [Presentación](https://docs.google.com/presentation/d/1dBHVoyRvlN2He4i7uykNQNPiAynl6fi6l3P4rN1W9Zs/edit){:target="_blank"}
+- [Apuntes](https://docs.google.com/document/d/1Q9t7KXjZIGf0G5VbpvtaSQF_pMkVLsfqk-_wfmbsHKQ/edit?tab=t.0#heading=h.qxyk2aahik5m){:target="_blank"}
 
