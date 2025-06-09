@@ -100,3 +100,9 @@ En esta sección encontrarás los materiales utilizados en las clases del curso,
 - [Presentación](https://docs.google.com/presentation/d/1dBHVoyRvlN2He4i7uykNQNPiAynl6fi6l3P4rN1W9Zs/edit){:target="_blank"}
 - [Apuntes](https://docs.google.com/document/d/1Q9t7KXjZIGf0G5VbpvtaSQF_pMkVLsfqk-_wfmbsHKQ/edit?tab=t.0#heading=h.qxyk2aahik5m){:target="_blank"}
 
+# Martes 10 de junio de 2025
+- [Presentación](https://docs.google.com/presentation/d/16EdZ8ekWi82MEMEp_mIKsg2ln6bSCfgIC7xDTTy6KqU/edit){:target="_blank"}
+- [Código](https://glitch.com/edit/#!/protobject-basic-arduino){:target="_blank"}
+
+# Jueves 12 de junio de 2025 y días sucesivos – Revisión de proyectos
+
