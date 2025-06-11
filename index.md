@@ -105,4 +105,6 @@ En esta sección encontrarás los materiales utilizados en las clases del curso,
 - [Código](https://glitch.com/edit/#!/protobject-basic-arduino){:target="_blank"}
 
 # Jueves 12 de junio de 2025 y días sucesivos – Revisión de proyectos
+- [Presentación](https://docs.google.com/presentation/d/1nVTwwNIfo5_zNFM2Er3Sb5dJA3_ru8lRjlwRaLyzouw/edit){:target="_blank"}
+
 
