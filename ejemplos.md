@@ -18,8 +18,8 @@ Esta visualización permite explorar el gasto militar global a través de un map
 
 **Créditos:** Jaime Hormazábal, Juan Pablo Palma, Yampai Ludueña (Grupo 22, InfoVis 2024-II). Se realizaron ajustes visuales y físicos para mejorar la experiencia interactiva.
 
-[Abrir en Glitch](https://glitch.com/edit/#!/infovis-military-expenditure){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
-[Demostración](https://infovis-military-expenditure.glitch.me/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Código](https://github.com/bellinux/demo.iv/tree/main/military-expenditure){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Demostración](https://demo.iv.alessiobellino.com/military-expenditure/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
 
 ---
 
@@ -29,8 +29,8 @@ Este proyecto compara las montañas rusas más rápidas del mundo, destacando su
 
 **Créditos:** Desarrollado por el Grupo 4 (InfoVis 2024-II). Se realizaron ajustes visuales para mejorar la interacción del usuario.
 
-[Abrir en Glitch](https://glitch.com/edit/#!/infovis-montanas-rusas){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
-[Demostración](https://infovis-montanas-rusas.glitch.me/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Código](https://demo.iv.alessiobellino.com/roaller-coaster/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Demostración](https://github.com/bellinux/demo.iv/tree/main/roaller-coaster){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
 
 
 ---
@@ -41,8 +41,8 @@ Este proyecto muestra un mapa interactivo de los países anfitriones de la Copa 
 
 **Créditos:** Desarrollado por Benjamín Santander, Nicolás San Martín, Rodolfo Cruz (Grupo 17, InfoVis 2024-II). Se realizaron pequeñas revisiones visuales para mejorar la accesibilidad y la claridad.
 
-[Abrir en Glitch](https://glitch.com/edit/#!/infovis-world-cup-map){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
-[Demostración](https://infovis-world-cup-map.glitch.me/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Código](https://github.com/bellinux/demo.iv/tree/main/world-cup){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Demostración](https://demo.iv.alessiobellino.com/world-cup/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
 
 ---
 
@@ -52,8 +52,8 @@ Este proyecto muestra los autos más rápidos del mundo, presentando sus especif
 
 **Créditos:** Matías Acuña, Gaspar Magna, Pablo Rabelo (Grupo 29, InfoVis 2024-II). El proyecto fue reescrito en JavaScript puro y se mejoró la representación física para una experiencia más fluida.
 
-[Abrir en Glitch](https://glitch.com/edit/#!/infovis-car-speed-records){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
-[Demostración](https://infovis-car-speed-records.glitch.me/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Código](https://github.com/bellinux/demo.iv/tree/main/car-speed){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Demostración](https://demo.iv.alessiobellino.com/car-speed/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
 
 ---
 
@@ -63,8 +63,8 @@ Este proyecto visualiza el consumo de energía en Chile y permite a los usuarios
 
 **Créditos:** Desarrollado por el Grupo 6 (InfoVis 2024-II). Se realizaron ajustes visuales y físicos para optimizar la experiencia interactiva.
 
-[Abrir en Glitch](https://glitch.com/edit/#!/infovis-electricity-chile){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
-[Demostración](https://infovis-electricity-chile.glitch.me/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Código](https://github.com/bellinux/demo.iv/tree/main/electricity){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Demostración](https://demo.iv.alessiobellino.com/electricity/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
 
 ---
 
@@ -74,8 +74,8 @@ Este dispensador de cereales inteligente muestra las calorías en función del t
 
 **Créditos:** Desarrollado por el Grupo 5 (InfoVis 2024-II). El proyecto fue revisado para mejorar la integración física y la interacción.
 
-[Abrir en Glitch](https://glitch.com/edit/#!/infovis-cereales-calorias){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
-[Demostración](https://infovis-cereales-calorias.glitch.me/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Código](https://github.com/bellinux/demo.iv/tree/main/cereals){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Demostración](https://demo.iv.alessiobellino.com/cereals/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
 
 ---
 
@@ -85,8 +85,8 @@ Este proyecto visualiza la migración de gaviotas utilizando datos geoespaciales
 
 **Créditos:** Desarrollado por el Grupo 21 (InfoVis 2024-II). Se realizaron ajustes visuales para mejorar la claridad de la representación.
 
-[Abrir en Glitch](https://glitch.com/edit/#!/infovis-migracion-gaviotas){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
-[Demostración](https://infovis-migracion-gaviotas.glitch.me/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Código](https://github.com/bellinux/demo.iv/tree/main/migration){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Demostración](https://demo.iv.alessiobellino.com/migration/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
 
 ---
 
@@ -96,8 +96,8 @@ Este proyecto muestra la evolución de los ganadores de los 100 metros planos en
 
 **Créditos:** Maximiliano Cabrera, Matías Oliva, Lorenzo Muñoz (Grupo 13, InfoVis 2024-II). El proyecto fue ajustado para integrar un dispositivo físico.
 
-[Abrir en Glitch](https://glitch.com/edit/#!/infovis-medallistas-olimpiadas){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
-[Demostración](https://infovis-medallistas-olimpiadas.glitch.me/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Código](https://github.com/bellinux/demo.iv/tree/main/gold-medals){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Demostración](https://demo.iv.alessiobellino.com/gold-medals/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
 
 ---
 
@@ -107,8 +107,8 @@ Este proyecto representa la intensidad y dirección del viento en la Quinta Regi
 
 **Créditos:** Nicolás Acevedo, Alan Saavedra, Pablo Utrera (Grupo 11) y Grupo 14 (InfoVis 2024-II). Se integraron las visualizaciones de ambos grupos para representar tanto la intensidad como la dirección del viento.
 
-[Abrir en Glitch](https://glitch.com/edit/#!/infovis-wind-intensity){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
-[Demostración](https://infovis-wind-intensity.glitch.me/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Código](https://github.com/bellinux/demo.iv/tree/main/wind-intensity){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Demostración](https://demo.iv.alessiobellino.com/wind-intensity/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
 
 ---
 
@@ -118,5 +118,5 @@ Este proyecto visualiza el impacto de las lluvias en distintas regiones de Chile
 
 **Créditos:** La representación física fue diseñada por el Grupo 7 (InfoVis 2024-II), y aunque se mantuvo la idea original, fue ajustada para ofrecer una experiencia inmersiva. Se realizaron cambios significativos en la visualización y sonificación.
 
-[Abrir en Glitch](https://glitch.com/edit/#!/infovis-rain-river){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
-[Demostración](https://infovis-rain-river.glitch.me/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Código](https://github.com/bellinux/demo.iv/tree/main/rain-river){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Demostración](https://demo.iv.alessiobellino.com/rain-river/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
