@@ -24,7 +24,7 @@ En esta sección encontrarás los materiales utilizados en las clases del curso,
 ---
 ---
 
-## Clases edicion precedente
+## Clases edición precedente
 
 ---
 ---
