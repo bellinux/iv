@@ -5,10 +5,10 @@ nav_order: 20
 
 # Herramientas
 
-Es **indispensable** usar [Glitch](https://glitch.com) para desarrollar los proyectos. 
+Es **indispensable** usar [GitHub](https://github.com) para desarrollar los proyectos.
 {: .fs-6 .fw-300 }
 
-- [Glitch](https://glitch.com) permite crear, editar y compartir aplicaciones web de manera sencilla, facilitando el desarrollo y la colaboración en tiempo real. Asegúrate de tener una cuenta y familiarizarte con sus herramientas para poder enviar correctamente tu trabajo.
+- [GitHub](https://github.com) permite alojar sitios web de forma sencilla, facilitando el desarrollo y la colaboración en tiempo real. Con [Codespaces](https://github.com/features/codespaces), podrás programar directamente desde el navegador, sin necesidad de instalar nada en tu computador. Asegúrate de tener una cuenta activa y familiarizarte con sus herramientas para poder enviar tu trabajo correctamente.
 
 
 
@@ -19,4 +19,4 @@ Además, te presentamos algunas herramientas recomendadas para el desarrollo de 
 - [Protobject](https://framework.protobject.com): Un framework para prototipado rápido que facilita el diseño de InfoVis físicos/digitales, mediante el uso de sensores y actuadores, incluyendo Arduino y Lego Technic.
 - El uso de ChatGPT o herramientas similares es recomendado para facilitar y agilizar la creación de código, la resolución de problemas de programación y la revisión textual de los informes de los proyectos.
 
-Aunque el uso de Glitch es obligatorio, Plotly.js, Tone.js y Protobject Framework son **altamente recomendadas**. Esto significa que puedes usar otras herramientas si así lo deseas, pero el apoyo para otras herramientas podría ser limitado.
+Aunque el uso de GitHub es obligatorio, Plotly.js, Tone.js y Protobject Framework son **altamente recomendadas**. Esto significa que puedes usar otras herramientas si así lo deseas, pero el apoyo para otras herramientas podría ser limitado.
