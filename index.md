@@ -65,14 +65,15 @@ En esta sección encontrarás los materiales utilizados en las clases del curso,
 
 ### Martes 8 de abril de 2025
 - [Presentación](https://docs.google.com/presentation/d/1_DvexCtFzW9zxDgyTxfIBsjcs8iwKkpGKOO8soVLN_M/edit){:target="_blank"}
-- [Código](https://github.com/bellinux/demo.iv/tree/main/lessons){:target="_blank"}
-- [Demo](https://demo.iv.alessiobellino.com/lessons/)
+- [Código](https://github.com/bellinux/demo.iv/tree/main/lessons/1-plotly){:target="_blank"}
+- [Demo](https://demo.iv.alessiobellino.com/lessons/1-plotly/)
 
 ### Jueves 10 de abril de 2025
 - [Presentación](https://docs.google.com/presentation/d/1MZR_sjNo7Qs6MCDi-KyVzsX6h01W2Um0rQq63wpIADA/edit){:target="_blank"}
-- [Código](https://github.com/bellinux/demo.iv/tree/main/lessons){:target="_blank"}
-- [Demo](https://demo.iv.alessiobellino.com/lessons/)
-
+- [Código 1](https://github.com/bellinux/demo.iv/tree/main/lessons/2-geo){:target="_blank"}
+- [Demo 1](https://demo.iv.alessiobellino.com/lessons/2-geo/)
+- [Código 2](https://github.com/bellinux/demo.iv/tree/main/lessons/2-geo-for-json){:target="_blank"}
+- [Demo 2](https://demo.iv.alessiobellino.com/lessons/2-geo-for-json/)
 
 ### Martes 15 de abril de 2025 y días sucesivos – Revisión de proyectos
 - [Presentación](https://docs.google.com/presentation/d/1x6hQTzEK4wQpYrJGykvNxYWaNoG2_LrdLTIFQjddcqc/edit){:target="_blank"}
@@ -84,8 +85,8 @@ En esta sección encontrarás los materiales utilizados en las clases del curso,
 
 ### Jueves 8 de mayo de 2025
 - [Presentación](https://docs.google.com/presentation/d/1c-eMXz9O8mcbKW0VduPRPXOnNWwsHiNbEsBiTX8b4mY/edit){:target="_blank"}
-- [Código](https://github.com/bellinux/demo.iv/tree/main/lessons){:target="_blank"}
-- [Demo](https://demo.iv.alessiobellino.com/lessons/)
+- [Código](https://github.com/bellinux/demo.iv/tree/main/lessons/3-intSon){:target="_blank"}
+- [Demo](https://demo.iv.alessiobellino.com/lessons/3-intSon/)
 
 
 ### Martes 13 de mayo de 2025 – Revisión de proyectos
@@ -113,8 +114,8 @@ En esta sección encontrarás los materiales utilizados en las clases del curso,
 
 ### Martes 10 de junio de 2025
 - [Presentación](https://docs.google.com/presentation/d/16EdZ8ekWi82MEMEp_mIKsg2ln6bSCfgIC7xDTTy6KqU/edit){:target="_blank"}
-- [Código](https://github.com/bellinux/demo.iv/tree/main/protobject-basic){:target="_blank"}
-- [Demo](https://demo.iv.alessiobellino.com/protobject-basic/)
+- [Código](https://github.com/bellinux/demo.iv/tree/main/protobject-basic/arduino){:target="_blank"}
+- [Demo](https://demo.iv.alessiobellino.com/protobject-basic/arduino/)
 
 ### Jueves 12 de junio de 2025 y días sucesivos – Revisión de proyectos
 - [Presentación](https://docs.google.com/presentation/d/1nVTwwNIfo5_zNFM2Er3Sb5dJA3_ru8lRjlwRaLyzouw/edit){:target="_blank"}
