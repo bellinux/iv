@@ -29,8 +29,8 @@ Este proyecto compara las montañas rusas más rápidas del mundo, destacando su
 
 **Créditos:** Desarrollado por el Grupo 4 (InfoVis 2024-II). Se realizaron ajustes visuales para mejorar la interacción del usuario.
 
-[Código](https://demo.iv.alessiobellino.com/roaller-coaster/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
-[Demostración](https://github.com/bellinux/demo.iv/tree/main/roaller-coaster){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Código](https://github.com/bellinux/demo.iv/tree/main/roaller-coaster){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Demostración](https://demo.iv.alessiobellino.com/roaller-coaster/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
 
 
 ---
