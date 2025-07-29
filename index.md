@@ -21,6 +21,8 @@ En esta sección encontrarás los materiales utilizados en las clases del curso,
 - [Apuntes](https://docs.google.com/document/d/1Q9t7KXjZIGf0G5VbpvtaSQF_pMkVLsfqk-_wfmbsHKQ/edit?tab=t.0#heading=h.75um1o7fmlsr){:target="_blank"}
 
 ---
+---
+---
 
 ## Clases edicion precedente
 
