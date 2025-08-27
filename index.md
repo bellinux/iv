@@ -50,11 +50,9 @@ En esta sección encontrarás los materiales utilizados en las clases del curso,
 ### Jueves 4 de septiembre de 2025
 - [Presentación](https://docs.google.com/presentation/d/1bxWtC_06af-Jp_UbpBgvP5t96lCej5vyclL2QjP7kN0/edit){:target="_blank"}
 - [Apuntes](https://docs.google.com/document/d/1Q9t7KXjZIGf0G5VbpvtaSQF_pMkVLsfqk-_wfmbsHKQ/edit?tab=t.0#heading=h.97zrag8t4trb){:target="_blank"}
-
 - [Presentación](https://docs.google.com/presentation/d/1_DvexCtFzW9zxDgyTxfIBsjcs8iwKkpGKOO8soVLN_M/edit){:target="_blank"}
 - [Código](https://github.com/bellinux/demo.iv/tree/main/lessons/1-plotly){:target="_blank"}
 - [Demo](https://demo.iv.alessiobellino.com/lessons/1-plotly/){:target="_blank"}
-
 - [Presentación](https://docs.google.com/presentation/d/1MZR_sjNo7Qs6MCDi-KyVzsX6h01W2Um0rQq63wpIADA/edit){:target="_blank"}
 - [Código 1](https://github.com/bellinux/demo.iv/tree/main/lessons/2-geo){:target="_blank"}
 - [Demo 1](https://demo.iv.alessiobellino.com/lessons/2-geo/){:target="_blank"}
