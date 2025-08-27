@@ -44,6 +44,43 @@ En esta sección encontrarás los materiales utilizados en las clases del curso,
 - [Presentación](https://docs.google.com/presentation/d/1IniE1Lfur96nc1HkKNrGgueS7kh4HAaRAdQ_Vvke9d0/edit){:target="_blank"}
 - [Apuntes](https://docs.google.com/document/d/1Q9t7KXjZIGf0G5VbpvtaSQF_pMkVLsfqk-_wfmbsHKQ/edit?tab=t.0#heading=h.iv5vsty2sy7l){:target="_blank"}
 
+### Martes 2 de septiembre de 2025
+- [Actividad](https://docs.google.com/document/d/1Yp4L5DEDWZ3l7Eu1z_XSBQ9wXQZoplXEooyfJwXxafI/edit){:target="_blank"}
+
+### Jueves 4 de septiembre de 2025
+- [Presentación](https://docs.google.com/presentation/d/1bxWtC_06af-Jp_UbpBgvP5t96lCej5vyclL2QjP7kN0/edit){:target="_blank"}
+- [Apuntes](https://docs.google.com/document/d/1Q9t7KXjZIGf0G5VbpvtaSQF_pMkVLsfqk-_wfmbsHKQ/edit?tab=t.0#heading=h.97zrag8t4trb){:target="_blank"}
+
+- [Presentación](https://docs.google.com/presentation/d/1_DvexCtFzW9zxDgyTxfIBsjcs8iwKkpGKOO8soVLN_M/edit){:target="_blank"}
+- [Código](https://github.com/bellinux/demo.iv/tree/main/lessons/1-plotly){:target="_blank"}
+- [Demo](https://demo.iv.alessiobellino.com/lessons/1-plotly/){:target="_blank"}
+
+- [Presentación](https://docs.google.com/presentation/d/1MZR_sjNo7Qs6MCDi-KyVzsX6h01W2Um0rQq63wpIADA/edit){:target="_blank"}
+- [Código 1](https://github.com/bellinux/demo.iv/tree/main/lessons/2-geo){:target="_blank"}
+- [Demo 1](https://demo.iv.alessiobellino.com/lessons/2-geo/){:target="_blank"}
+- [Código 2](https://github.com/bellinux/demo.iv/tree/main/lessons/2-geo-for-json){:target="_blank"}
+- [Demo 2](https://demo.iv.alessiobellino.com/lessons/2-geo-for-json/){:target="_blank"}
+
+### Martes 9 de septiembre de 2025 y días sucesivos – Revisión de proyectos
+- [Presentación](https://docs.google.com/presentation/d/1x6hQTzEK4wQpYrJGykvNxYWaNoG2_LrdLTIFQjddcqc/edit){:target="_blank"}
+
+### Martes 30 de septiembre de 2025
+- [Presentación](https://docs.google.com/presentation/d/1F83R3m8TFKGwHIH1H3pRnzSFolAdvRgOfSxa38mTO7w/edit){:target="_blank"}
+- [Apuntes](https://docs.google.com/document/d/1Q9t7KXjZIGf0G5VbpvtaSQF_pMkVLsfqk-_wfmbsHKQ/edit?tab=t.0#heading=h.f6e8hrt4rg3v){:target="_blank"}
+
+### Jueves 2 de octubre de 2025
+- [Presentación](https://docs.google.com/presentation/d/1c-eMXz9O8mcbKW0VduPRPXOnNWwsHiNbEsBiTX8b4mY/edit){:target="_blank"}
+- [Código](https://github.com/bellinux/demo.iv/tree/main/lessons/3-intSon){:target="_blank"}
+- [Demo](https://demo.iv.alessiobellino.com/lessons/3-intSon/)
+
+### Martes 7 de octubre de 2025
+- Charla profesor invitado: Rodrigo Cádiz nos hablará sobre sonificación.
+- 
+### Jueves 9 de octubre de 2025 y días sucesivos – Revisión de proyectos
+- [Presentación](https://docs.google.com/presentation/d/1JRKAa0qFkzY9yHPCnApGpxp2AGyO_qST5cDFnfYgHsc/edit){:target="_blank"}
+
+
+
 
 ---
 ---
@@ -56,47 +93,6 @@ En esta sección encontrarás los materiales utilizados en las clases del curso,
 ---
 
 
-### Jueves 3 de abril de 2025
-- [Presentación](https://docs.google.com/presentation/d/1bxWtC_06af-Jp_UbpBgvP5t96lCej5vyclL2QjP7kN0/edit){:target="_blank"}
-- [Apuntes](https://docs.google.com/document/d/1Q9t7KXjZIGf0G5VbpvtaSQF_pMkVLsfqk-_wfmbsHKQ/edit?tab=t.0#heading=h.97zrag8t4trb){:target="_blank"}
-
-
-
-### Martes 8 de abril de 2025
-- [Presentación](https://docs.google.com/presentation/d/1_DvexCtFzW9zxDgyTxfIBsjcs8iwKkpGKOO8soVLN_M/edit){:target="_blank"}
-- [Código](https://github.com/bellinux/demo.iv/tree/main/lessons/1-plotly){:target="_blank"}
-- [Demo](https://demo.iv.alessiobellino.com/lessons/1-plotly/){:target="_blank"}
-
-### Jueves 10 de abril de 2025
-- [Presentación](https://docs.google.com/presentation/d/1MZR_sjNo7Qs6MCDi-KyVzsX6h01W2Um0rQq63wpIADA/edit){:target="_blank"}
-- [Código 1](https://github.com/bellinux/demo.iv/tree/main/lessons/2-geo){:target="_blank"}
-- [Demo 1](https://demo.iv.alessiobellino.com/lessons/2-geo/){:target="_blank"}
-- [Código 2](https://github.com/bellinux/demo.iv/tree/main/lessons/2-geo-for-json){:target="_blank"}
-- [Demo 2](https://demo.iv.alessiobellino.com/lessons/2-geo-for-json/){:target="_blank"}
-
-### Martes 15 de abril de 2025 y días sucesivos – Revisión de proyectos
-- [Presentación](https://docs.google.com/presentation/d/1x6hQTzEK4wQpYrJGykvNxYWaNoG2_LrdLTIFQjddcqc/edit){:target="_blank"}
-
-
-### Martes 6 de mayo de 2025
-- [Presentación](https://docs.google.com/presentation/d/1F83R3m8TFKGwHIH1H3pRnzSFolAdvRgOfSxa38mTO7w/edit){:target="_blank"}
-- [Apuntes](https://docs.google.com/document/d/1Q9t7KXjZIGf0G5VbpvtaSQF_pMkVLsfqk-_wfmbsHKQ/edit?tab=t.0#heading=h.f6e8hrt4rg3v){:target="_blank"}
-
-### Jueves 8 de mayo de 2025
-- [Presentación](https://docs.google.com/presentation/d/1c-eMXz9O8mcbKW0VduPRPXOnNWwsHiNbEsBiTX8b4mY/edit){:target="_blank"}
-- [Código](https://github.com/bellinux/demo.iv/tree/main/lessons/3-intSon){:target="_blank"}
-- [Demo](https://demo.iv.alessiobellino.com/lessons/3-intSon/)
-
-
-### Martes 13 de mayo de 2025 – Revisión de proyectos
-- [Presentación](https://docs.google.com/presentation/d/1JRKAa0qFkzY9yHPCnApGpxp2AGyO_qST5cDFnfYgHsc/edit){:target="_blank"}
-
-### Jueves 15 de mayo de 2025
-- Charla profesor invitado: Rodrigo Cádiz nos hablará sobre sonificación.
-
-
-### Martes 20 de mayo de 2025 y días sucesivos – Revisión de proyectos
-- [Presentación](https://docs.google.com/presentation/d/1JRKAa0qFkzY9yHPCnApGpxp2AGyO_qST5cDFnfYgHsc/edit){:target="_blank"}
 
 ### Jueves 29 de mayo de 2025
 - [Presentación](https://docs.google.com/presentation/d/1beopEyZD2rc1Qnj-U07tA_Iq6nXqFQuep-BDObdgWxY/edit){:target="_blank"}
