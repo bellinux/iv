@@ -73,44 +73,37 @@ En esta sección encontrarás los materiales utilizados en las clases del curso,
 
 ### Martes 7 de octubre de 2025
 - Charla profesor invitado: Rodrigo Cádiz nos hablará sobre sonificación.
-- 
+
+
 ### Jueves 9 de octubre de 2025 y días sucesivos – Revisión de proyectos
 - [Presentación](https://docs.google.com/presentation/d/1JRKAa0qFkzY9yHPCnApGpxp2AGyO_qST5cDFnfYgHsc/edit){:target="_blank"}
 
 
 
 
----
----
----
-
-## Clases edición precedente
-
----
----
----
-
-
-
-### Jueves 29 de mayo de 2025
+### Jueves 23 de octubre de 2025
 - [Presentación](https://docs.google.com/presentation/d/1beopEyZD2rc1Qnj-U07tA_Iq6nXqFQuep-BDObdgWxY/edit){:target="_blank"}
 - [Apuntes](https://docs.google.com/document/d/1Q9t7KXjZIGf0G5VbpvtaSQF_pMkVLsfqk-_wfmbsHKQ/edit?tab=t.0#heading=h.9hmdyj8mi8y6){:target="_blank"}
 
 
-### Martes 3 de junio de 2025
+### Martes 28 de octubre de 2025
 - [Presentación](https://docs.google.com/presentation/d/1I421XAM2n2kdDGyEoY0weq3yl2jPHsvw4S5JV9vvUsU/edit){:target="_blank"}
 - [Código](https://framework.protobject.com/examples.html#dataviz-projects){:target="_blank"}
 
-### Jueves 5 de junio de 2025
+### Jueves 30 de octubre de 2025
 - [Presentación](https://docs.google.com/presentation/d/1dBHVoyRvlN2He4i7uykNQNPiAynl6fi6l3P4rN1W9Zs/edit){:target="_blank"}
 - [Apuntes](https://docs.google.com/document/d/1Q9t7KXjZIGf0G5VbpvtaSQF_pMkVLsfqk-_wfmbsHKQ/edit?tab=t.0#heading=h.qxyk2aahik5m){:target="_blank"}
 
-### Martes 10 de junio de 2025
+
+
+### Martes 4 de noviembre de 2025
+- Charla profesor invitado: Ricardo Vega nos hablará sobre fisicalización.
+
+### Jueves 6 de noviembre de 2025 
 - [Presentación](https://docs.google.com/presentation/d/16EdZ8ekWi82MEMEp_mIKsg2ln6bSCfgIC7xDTTy6KqU/edit){:target="_blank"}
 - [Código](https://github.com/bellinux/demo.iv/tree/main/protobject-basic/arduino){:target="_blank"}
 - [Demo](https://demo.iv.alessiobellino.com/protobject-basic/arduino/){:target="_blank"}
 
-### Jueves 12 de junio de 2025 y días sucesivos – Revisión de proyectos
+
+### Martes 11 de noviembre de 2025 y días sucesivos – Revisión de proyectos
 - [Presentación](https://docs.google.com/presentation/d/1nVTwwNIfo5_zNFM2Er3Sb5dJA3_ru8lRjlwRaLyzouw/edit){:target="_blank"}
-
-
