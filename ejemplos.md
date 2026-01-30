@@ -8,14 +8,14 @@ nav_order: 30
 A continuación, se presentan algunos ejemplos de proyectos realizados por estudiantes en ediciones pasadas del curso. Estos proyectos destacan por su **innovación** y **diversidad**, y representan una muestra de las diferentes posibilidades creativas y de ejecución que se pueden explorar en el curso.
 {: .fs-6 .fw-300 }
 
----
+## 2025-II
 
 {% include video_embed.html video_id="nkXZUD_igkU" %}
 
 Una demostración de proyectos desarrollados durante el semestre 2025-II, donde los datos se exploran mediante interacción, fisicalización y sonificación. Propuestas multisensoriales que integran lo visual, lo sonoro y lo corporal para ampliar las formas de comprender la información. Este video sirve como referencia e inspiración para estudiantes de semestres posteriores, mostrando los enfoques, procesos y resultados posibles dentro del curso.
 
 
----
+## 2024-II
 
 {% include video_embed.html video_id="LEm3NN7c4eo" %}
 
