@@ -102,9 +102,9 @@ Al finalizar el curso, los estudiantes serán capaces de:
 
 - Pruebas teóricas (2 interrogaciones).
 - Proyecto en 3 entregas progresivas:
-  - **Entrega 1**: Visualización de información estática.
-  - **Entrega 2**: Visualización de información interactiva y sonora.
-  - **Entrega 3**: Visualización de información interactiva, sonora y física.
+  - **Entrega 1**: Visualización de información estática (**20 % del proyecto**).
+  - **Entrega 2**: Visualización de información interactiva y sonora (**40 % del proyecto**).
+  - **Entrega 3**: Visualización de información interactiva, sonora y física (**40 % del proyecto**).
 - **Bonus**: Actividades en clase.
 
 Las evaluaciones buscan demostrar la comprensión teórica y práctica de los conceptos del curso, así como la capacidad de diseñar, implementar y evaluar visualizaciones efectivas.
@@ -113,19 +113,33 @@ Para aprobar el curso, es necesario cumplir con los siguientes requisitos:
 - Obtener un promedio mayor o igual a 4 en las pruebas teóricas.
 - Obtener un promedio mayor o igual a 4 en el proyecto.
 
-La nota final se calculará como el promedio entre:
-- El promedio de las pruebas teóricas.
-- El promedio de las entregas del proyecto.
+La nota final se calculará como un promedio ponderado, donde:
+- El promedio de las pruebas teóricas corresponde al **20 %** de la nota final.
+- El promedio del proyecto corresponde al **80 %** de la nota final y se calcula como un promedio ponderado de sus entregas:
+  - **Entrega 1**: 20 % del proyecto.
+  - **Entrega 2**: 40 % del proyecto.
+  - **Entrega 3**: 40 % del proyecto.
 
-Si el promedio final es mayor o igual a 4, pero alguno de los promedios (pruebas teóricas o proyecto) es inferior a 4, la nota final será 3.9 y se reprobará el curso.
+Si la nota final es mayor o igual a 4, pero alguno de los promedios (pruebas teóricas o proyecto) es inferior a 4, la nota final será 3.9 y se reprobará el curso.
 
 Al promedio final obtenido se sumará el bonus correspondiente a las actividades en clase.
 
-[Calcula tu nota](https://docs.google.com/spreadsheets/d/1oeK0Uc_cDb-OJ4ro1ohQd-m1hLe46mJSSay6n2mGJTU/edit ){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Calcula tu nota](https://docs.google.com/spreadsheets/d/1oeK0Uc_cDb-OJ4ro1ohQd-m1hLe46mJSSay6n2mGJTU/edit){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 
 ## USO DE LLM
-El uso de ChatGPT o herramientas similares es recomendado para facilitar y agilizar la creación de código, la resolución de problemas de programación y la revisión textual de los informes de los proyectos.
+
+El uso de ChatGPT u otras herramientas basadas en modelos de lenguaje (LLM) está permitido y recomendado para facilitar y agilizar la creación de código, la resolución de problemas de programación y la revisión textual de los informes de los proyectos.
+
+No obstante, el estudiantado es responsable de **comprender plenamente** el código y los textos generados con apoyo de estas herramientas. El equipo docente podrá realizar preguntas orales sobre el código y los informes entregados, tanto en evaluaciones formales como en instancias de revisión de proyecto.
+
+Si un o una estudiante no es capaz de explicar o justificar adecuadamente partes del código o del informe que haya entregado —incluyendo contenidos generados total o parcialmente con apoyo de LLM—, el caso podrá ser derivado a **Integridad Académica**. En evaluaciones individuales, esta situación podrá implicar la asignación de **nota 1** en la evaluación correspondiente.
+
+En el caso del proyecto grupal, **la evaluación podrá ser diferenciada por integrante**. Todas y todos los miembros del equipo deben ser capaces de comprender y explicar el código desarrollado y el contenido del informe. Si, ante preguntas orales, un integrante no demuestra comprensión suficiente del código o del informe, **esa persona podrá recibir nota 1**, mientras que los demás integrantes que sí respondan adecuadamente **recibirán la calificación que corresponda a su desempeño**.
+
+El equipo docente podrá citar a las y los estudiantes para **dar cuenta y justificar** lo que han escrito y programado, tanto en instancias formales de evaluación como en sesiones de revisión y seguimiento del proyecto.
+
+
 
 ## BIBLIOGRAFÍA
 
