@@ -12,17 +12,19 @@ En esta sección encontrarás los materiales utilizados en las clases del curso,
 
 ---
 
-### Martes 5 de agosto de 2025
+### Jueves 5 de marzo de 2026
 - [Presentación](https://docs.google.com/presentation/d/12mQmJNBFKV4vEBPv6gaRRGTobFyEJS6ICmW57_8SHaE/edit){:target="_blank"}
 - [Apuntes](https://docs.google.com/document/d/1Q9t7KXjZIGf0G5VbpvtaSQF_pMkVLsfqk-_wfmbsHKQ/edit?tab=t.0#heading=h.wrxfpif6r4ny){:target="_blank"}
 
-### Jueves 7 de agosto de 2025
+### Martes 10 de marzo de 2026
 - [Presentación](https://docs.google.com/presentation/d/1mcO3HXX69C63aT3UPwotDvqisq-VDkcZj7RDlQK5hpM/edit){:target="_blank"}
 - [Apuntes](https://docs.google.com/document/d/1Q9t7KXjZIGf0G5VbpvtaSQF_pMkVLsfqk-_wfmbsHKQ/edit?tab=t.0#heading=h.75um1o7fmlsr){:target="_blank"}
 
-### Martes 12 de agosto de 2025
+### Jueves 12 de marzo de 2026
 - [Presentación](https://docs.google.com/presentation/d/1atDLrv3M60GL3pRq2xPZFAgZJgu1set5017-GkT6AAI/edit){:target="_blank"}
 - [Apuntes](https://docs.google.com/document/d/1Q9t7KXjZIGf0G5VbpvtaSQF_pMkVLsfqk-_wfmbsHKQ/edit?tab=t.0#heading=h.az5v6uty1gtd){:target="_blank"}
+
+## Clases del semestre anterior
 
 ### Jueves 14 de agosto de 2025
 - [Presentación](https://docs.google.com/presentation/d/1fJJfuNCPvab1z6ygZHxukXmrlCTmknxj_H8iBXxniLM/edit){:target="_blank"}
