@@ -127,17 +127,30 @@ Al promedio final obtenido se sumará el bonus correspondiente a las actividades
 [Calcula tu nota](https://docs.google.com/spreadsheets/d/1oeK0Uc_cDb-OJ4ro1ohQd-m1hLe46mJSSay6n2mGJTU/edit){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 
-## USO DE LLM
+## Política de Integridad Académica y Código de Honor
 
-El uso de ChatGPT u otras herramientas basadas en modelos de lenguaje (LLM) está permitido y recomendado para facilitar y agilizar la creación de código, la resolución de problemas de programación y la revisión textual de los informes de los proyectos.
+### 1. Marco General de la Escuela de Ingeniería
+Los/as estudiantes de la Escuela de Ingeniería de la Pontificia Universidad Católica de Chile deben mantener un comportamiento acorde a la **Declaración de Principios de la Universidad**. En particular, se espera que mantengan altos estándares de honestidad académica. Cualquier acto deshonesto o fraude académico está prohibido; los/as estudiantes que incurran en este tipo de acciones se exponen a un **Procedimiento Sumario**. 
 
-No obstante, el estudiantado es responsable de **comprender plenamente** el código y los textos generados con apoyo de estas herramientas. El equipo docente podrá realizar preguntas orales sobre el código y los informes entregados, tanto en evaluaciones formales como en instancias de revisión de proyecto.
+Es responsabilidad de cada estudiante conocer y respetar el documento sobre **Integridad Académica** publicado por la Dirección de Docencia de la Escuela de Ingeniería.
 
-Si un o una estudiante no es capaz de explicar o justificar adecuadamente partes del código o del informe que haya entregado —incluyendo contenidos generados total o parcialmente con apoyo de LLM—, el caso podrá ser derivado a **Integridad Académica**. En evaluaciones individuales, esta situación podrá implicar la asignación de **nota 1** en la evaluación correspondiente.
+### 2. Política del Departamento de Ciencia de la Computación (DCC)
+Para los cursos del DCC, rige obligatoriamente la siguiente política de integridad académica:
 
-En el caso del proyecto grupal, **la evaluación podrá ser diferenciada por integrante**. Todas y todos los miembros del equipo deben ser capaces de comprender y explicar el código desarrollado y el contenido del informe. Si, ante preguntas orales, un integrante no demuestra comprensión suficiente del código o del informe, **esa persona podrá recibir nota 1**, mientras que los demás integrantes que sí respondan adecuadamente **recibirán la calificación que corresponda a su desempeño**.
+* **Responsabilidad de Autoría:** Todo trabajo presentado por un/a estudiante debe ser realizado por él/ella. El/la estudiante es responsable de originar el material entregado y de **conocer íntegramente su contenido**.
+* **Condiciones de Entrega:** Se deben respetar estrictamente las condiciones definidas por el curso para cada trabajo (carácter individual o grupal, y el uso permitido de material digital o IA). Por “trabajo” se entienden interrogaciones, tareas, laboratorios, proyectos y exámenes.
+* **Sanciones:** Si un/a estudiante incurre en una falta a la integridad académica (entregar trabajo ajeno, no comprender íntegramente lo entregado o incumplir las condiciones del curso), obtendrá **nota final 1.1 en el curso** y se solicitará a la Dirección de Pregrado que no se le permita retirar la asignatura. En todos los casos, se informará a la Comisión de Integridad Académica para sanciones adicionales según el Reglamento del Estudiante UC.
 
-El equipo docente podrá citar a las y los estudiantes para **dar cuenta y justificar** lo que han escrito y programado, tanto en instancias formales de evaluación como en sesiones de revisión y seguimiento del proyecto.
+### 3. Normativa Específica del Curso y Uso de Inteligencia Artificial
+En este curso, el uso de herramientas basadas en modelos de lenguaje (LLM), como **ChatGPT, GitHub Copilot** u otros asistentes, se rige bajo las siguientes reglas:
+
+* **Uso Permitido y Declaración:** Se permite y recomienda su uso para facilitar la creación de código, resolución de problemas y revisión de informes. No obstante, **debe declararse de forma explícita** qué herramienta se usó y con qué propósito. El equipo docente podrá solicitar respaldos de su utilización (ej. historiales o *logs*).
+* **Verificación de Comprensión:** En coherencia con la regla del DCC de "conocer íntegramente el contenido", el equipo docente podrá realizar preguntas orales sobre el código e informes entregados. La incapacidad de explicar o justificar adecuadamente cualquier parte del trabajo (incluyendo lo generado por IA) constituye una falta a la integridad académica y activará las sanciones de la sección 2 (nota 1.1 en el curso).
+* **Evaluación Grupal Diferenciada:** En el proyecto grupal, todos los miembros deben comprender la totalidad del código y del informe. Si en una revisión un integrante no demuestra comprensión suficiente, dicha persona podrá recibir las sanciones de integridad académica de forma individual, mientras que los demás integrantes recibirán la calificación acorde a su desempeño.
+* **Citas y Seguimiento:** El equipo docente podrá citar a las y los estudiantes para dar cuenta de lo programado en cualquier instancia del semestre, ya sea en evaluaciones formales o sesiones de revisión.
+
+### 4. Compromiso del Código de Honor
+Este curso suscribe el **Código de Honor UC**, el cual es vinculante. Todo trabajo evaluado debe ser propio. En caso de colaboración permitida, el trabajo deberá referenciar y atribuir correctamente dicha contribución. Es deber del estudiante conocer el Código de Honor en: [https://www.uc.cl/codigo-de-honor/](https://www.uc.cl/codigo-de-honor/)
 
 
 
