@@ -41,15 +41,13 @@ En esta sección encontrarás los materiales utilizados en las clases del curso,
 - [Apuntes](https://docs.google.com/document/d/1Q9t7KXjZIGf0G5VbpvtaSQF_pMkVLsfqk-_wfmbsHKQ/edit?tab=t.0#heading=h.5n9f6wylfw1f){:target="_blank"}
 
 
-## Clases del semestre anterior
-
-
-### Jueves 28 de agosto de 2025
+### Martes 31 de marzo de 2025
 - [Presentación](https://docs.google.com/presentation/d/1IniE1Lfur96nc1HkKNrGgueS7kh4HAaRAdQ_Vvke9d0/edit){:target="_blank"}
 - [Apuntes](https://docs.google.com/document/d/1Q9t7KXjZIGf0G5VbpvtaSQF_pMkVLsfqk-_wfmbsHKQ/edit?tab=t.0#heading=h.iv5vsty2sy7l){:target="_blank"}
 
-### Martes 2 de septiembre de 2025
-- [Actividad](https://docs.google.com/document/d/1Yp4L5DEDWZ3l7Eu1z_XSBQ9wXQZoplXEooyfJwXxafI/edit){:target="_blank"}
+
+
+## Clases del semestre anterior
 
 ### Jueves 4 de septiembre de 2025
 - [Presentación](https://docs.google.com/presentation/d/1bxWtC_06af-Jp_UbpBgvP5t96lCej5vyclL2QjP7kN0/edit){:target="_blank"}
