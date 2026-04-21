@@ -41,7 +41,7 @@ En esta sección encontrarás los materiales utilizados en las clases del curso,
 - [Apuntes](https://docs.google.com/document/d/1Q9t7KXjZIGf0G5VbpvtaSQF_pMkVLsfqk-_wfmbsHKQ/edit?tab=t.0#heading=h.5n9f6wylfw1f){:target="_blank"}
 
 
-### Martes 31 de marzo de 2025
+### Martes 31 de marzo de 2026
 - [Presentación](https://docs.google.com/presentation/d/1IniE1Lfur96nc1HkKNrGgueS7kh4HAaRAdQ_Vvke9d0/edit){:target="_blank"}
 - [Apuntes](https://docs.google.com/document/d/1Q9t7KXjZIGf0G5VbpvtaSQF_pMkVLsfqk-_wfmbsHKQ/edit?tab=t.0#heading=h.iv5vsty2sy7l){:target="_blank"}
 
@@ -64,25 +64,28 @@ En esta sección encontrarás los materiales utilizados en las clases del curso,
 ### Jueves 9 de abril de 2026 y días sucesivos – Revisión de proyectos
 - [Presentación](https://docs.google.com/presentation/d/1x6hQTzEK4wQpYrJGykvNxYWaNoG2_LrdLTIFQjddcqc/edit){:target="_blank"}
 
-### Martes 21 de abril de 2025
+### Martes 21 de abril de 2026
 - [Presentación](https://docs.google.com/presentation/d/1F83R3m8TFKGwHIH1H3pRnzSFolAdvRgOfSxa38mTO7w/edit){:target="_blank"}
 - [Apuntes](https://docs.google.com/document/d/1Q9t7KXjZIGf0G5VbpvtaSQF_pMkVLsfqk-_wfmbsHKQ/edit?tab=t.0#heading=h.f6e8hrt4rg3v){:target="_blank"}
 
-### Jueves 23 de abril de 2025
+### Jueves 23 de abril de 2026
 - [Presentación](https://docs.google.com/presentation/d/1c-eMXz9O8mcbKW0VduPRPXOnNWwsHiNbEsBiTX8b4mY/edit){:target="_blank"}
 - [Código](https://github.com/bellinux/demo.iv/tree/main/lessons/3-intSon){:target="_blank"}
 - [Demo](https://demo.iv.alessiobellino.com/lessons/3-intSon/)
 
-## Clases del semestre anterior
 
-### Martes 7 de octubre de 2025
-- Charla profesor invitado: Rodrigo Cádiz nos hablará sobre sonificación.
+### Martes 28 de abril de 2026 – Revisión de proyectos
+- [Presentación](https://docs.google.com/presentation/d/1JRKAa0qFkzY9yHPCnApGpxp2AGyO_qST5cDFnfYgHsc/edit){:target="_blank"}
 
+### Jueves 30 de abril de 2026
+- Charla profesor invitado: Ricardo Vega nos hablará sobre arte y fisicalización con los datos.
 
-### Jueves 9 de octubre de 2025 y días sucesivos – Revisión de proyectos
+### Martes 5 de mayo de 2026 y días sucesivos – Revisión de proyectos
 - [Presentación](https://docs.google.com/presentation/d/1JRKAa0qFkzY9yHPCnApGpxp2AGyO_qST5cDFnfYgHsc/edit){:target="_blank"}
 
 
+
+## Clases del semestre anterior
 
 
 ### Jueves 23 de octubre de 2025
