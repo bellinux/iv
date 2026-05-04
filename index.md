@@ -79,6 +79,8 @@ En esta sección encontrarás los materiales utilizados en las clases del curso,
 
 ### Jueves 30 de abril de 2026
 - Charla profesor invitado: Ricardo Vega nos hablará sobre arte y fisicalización con los datos.
+- [Presentación](https://drive.google.com/file/d/1psv5lWIi_D2FqLqp24yAoWpaEoyP_KuL/view?usp=drive_link){:target="_blank"}
+
 
 ### Martes 5 de mayo de 2026 y días sucesivos – Revisión de proyectos
 - [Presentación](https://docs.google.com/presentation/d/1JRKAa0qFkzY9yHPCnApGpxp2AGyO_qST5cDFnfYgHsc/edit){:target="_blank"}
