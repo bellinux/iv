@@ -86,7 +86,6 @@ En esta sección encontrarás los materiales utilizados en las clases del curso,
 - [Presentación](https://docs.google.com/presentation/d/1JRKAa0qFkzY9yHPCnApGpxp2AGyO_qST5cDFnfYgHsc/edit){:target="_blank"}
 
 
-
 ## Clases del semestre anterior
 
 
