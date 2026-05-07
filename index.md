@@ -103,10 +103,6 @@ En esta sección encontrarás los materiales utilizados en las clases del curso,
 - [Apuntes](https://docs.google.com/document/d/1Q9t7KXjZIGf0G5VbpvtaSQF_pMkVLsfqk-_wfmbsHKQ/edit?tab=t.0#heading=h.qxyk2aahik5m){:target="_blank"}
 
 
-
-### Martes 4 de noviembre de 2025
-- Charla profesor invitado: Ricardo Vega nos hablará sobre fisicalización.
-
 ### Jueves 6 de noviembre de 2025 
 - [Presentación](https://docs.google.com/presentation/d/16EdZ8ekWi82MEMEp_mIKsg2ln6bSCfgIC7xDTTy6KqU/edit){:target="_blank"}
 - [Código](https://github.com/bellinux/demo.iv/tree/main/protobject-basic/arduino){:target="_blank"}
