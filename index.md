@@ -92,27 +92,27 @@ En esta sección encontrarás los materiales utilizados en las clases del curso,
 ### Jueves 14 de mayo
 - Entrega 2 - Proyecto
 
-### Martes 2 de junio de 2026
+### Martes 26 de mayo de 2026
 - [Presentación](https://docs.google.com/presentation/d/1beopEyZD2rc1Qnj-U07tA_Iq6nXqFQuep-BDObdgWxY/edit){:target="_blank"}
 - [Apuntes](https://docs.google.com/document/d/1Q9t7KXjZIGf0G5VbpvtaSQF_pMkVLsfqk-_wfmbsHKQ/edit?tab=t.0#heading=h.9hmdyj8mi8y6){:target="_blank"}
 
 
-### Jueves 4 de junio de 2026
+### Jueves 28 de mayo de 2026
 - [Presentación](https://docs.google.com/presentation/d/1I421XAM2n2kdDGyEoY0weq3yl2jPHsvw4S5JV9vvUsU/edit){:target="_blank"}
 - [Código](https://framework.protobject.com/examples.html#dataviz-projects){:target="_blank"}
 
-### Martes 9 de junio de 2026
+### Martes 2 de junio de 2026
 - [Presentación](https://docs.google.com/presentation/d/1dBHVoyRvlN2He4i7uykNQNPiAynl6fi6l3P4rN1W9Zs/edit){:target="_blank"}
 - [Apuntes](https://docs.google.com/document/d/1Q9t7KXjZIGf0G5VbpvtaSQF_pMkVLsfqk-_wfmbsHKQ/edit?tab=t.0#heading=h.qxyk2aahik5m){:target="_blank"}
 
 
-### Jueves 11 de junio de 2026
+### Jueves 4 de junio de 2026
 - [Presentación](https://docs.google.com/presentation/d/16EdZ8ekWi82MEMEp_mIKsg2ln6bSCfgIC7xDTTy6KqU/edit){:target="_blank"}
 - [Código](https://github.com/bellinux/demo.iv/tree/main/protobject-basic/arduino){:target="_blank"}
 - [Demo](https://demo.iv.alessiobellino.com/protobject-basic/arduino/){:target="_blank"}
 - Interrogacion 2
 
-### Martes 16 de junio de 2026 y días sucesivos – Revisión de proyectos
+### Martes 9 de junio de 2026 y días sucesivos – Revisión de proyectos
 - [Presentación](https://docs.google.com/presentation/d/1nVTwwNIfo5_zNFM2Er3Sb5dJA3_ru8lRjlwRaLyzouw/edit){:target="_blank"}
 
 ### Jueves 25 de junio de 2026
